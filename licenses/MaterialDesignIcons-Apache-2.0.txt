@@ -19,4 +19,5 @@ and desktop fonts contain some icons that are redistributed under the Apache
 licenses or are distributed under the Apache 2.0 license.
 
 # Code: MIT (https://opensource.org/licenses/MIT)
+
 The MIT license applies to all non-font and non-icon files.
