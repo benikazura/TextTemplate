@@ -1,2 +1,29 @@
-# TextTemplate
+# YMM4テキストテンプレートプラグイン
+ 
 文字装飾をテンプレートとして保存し、ワンクリックでワンクリックで呼び出せるプラグインです。
+
+※このリポジトリはYMM4テキストテンプレートプラグインの配布専用ページです。  
+ソースコードは含まれていません。  
+
+## ダウンロード
+
+最新版は [Releases](https://github.com/benikazura/TextTemplate/releases/latest) からダウンロードしてください。
+
+## 利用規約
+
+配布物に同梱されているreadme.txtをご確認ください。
+
+## サードパーティーライセンス一覧
+
+本ソフトウェアでは、以下のオープンソースアセットを利用しています。
+原文はlicensesフォルダ内を参照してください。
+
+- MaterialDesignIcons
+  - 用途 : WPF Canvas上でアイコン(Path)として利用
+  - ライセンス : Apache License 2.0
+  - 公式サイト : https://pictogrammers.com
+
+## 変更履歴
+
+- 2025/12/17
+  - プラグインを公開しました。
